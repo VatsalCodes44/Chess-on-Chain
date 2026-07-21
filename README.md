@@ -13,6 +13,34 @@ Players can compete in live chess matches, stake SOL, create custom arenas, spec
 Built during the **Monolith Hackathon** for the **Seeker Phone**.  
   
 ---  
+
+---  
+  
+# 🎥 Demo  
+  
+Watch the demo video:  
+  
+  https://youtu.be/omzQjECE32Q?si=9cKAcD5HHKM_bEXX
+  
+---  
+  
+# 📊 Pitch Deck  
+  
+View the interactive presentation used in the **Monolith Hackathon**:  
+
+https://playchessonchain.fun/
+  
+or open locally after cloning the repo.  
+  
+---  
+  
+# 📱 Android App  
+  
+Download the Android build:  
+  
+https://github.com/VatsalCodes44/Chess-on-Chain/releases  
+  
+---  
   
 # 🚀 Features  
   
@@ -119,34 +147,7 @@ alt="Chess On Chain"
 height="600" 
 />  
 </p>
-  
----  
-  
-# 🎥 Demo  
-  
-Watch the demo video:  
-  
-  https://youtu.be/omzQjECE32Q?si=9cKAcD5HHKM_bEXX
-  
----  
-  
-# 📊 Pitch Deck  
-  
-View the interactive presentation used in the **Monolith Hackathon**:  
 
-https://playchessonchain.fun/
-  
-or open locally after cloning the repo.  
-  
----  
-  
-# 📱 Android App  
-  
-Download the Android build:  
-  
-https://github.com/VatsalCodes44/Chess-on-Chain/releases  
-  
----  
   
 # ⚙ Tech Stack  
   
